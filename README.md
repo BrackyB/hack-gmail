@@ -2,7 +2,7 @@
 
 <b><strong>Note: </strong>Make sure your google account is accessible by any software. (Turn on 'less secure app access').</b><br><br><br>
 Steps:
-<b> Go to <a href="myaccount.google.com">myaccount.google.com</a> > signin to your account > go to 'security' > scroll down until you find this-  <img src="security">> click and turn on access from less secure apps.</b>
+<b> Go to <a href="myaccount.google.com">myaccount.google.com</a> > signin to your account > go to 'security' > scroll down until you find this-  <img src="security.PNG">> click and turn on access from less secure apps.</b>
 
   
 <h2>Hacking</h2>
